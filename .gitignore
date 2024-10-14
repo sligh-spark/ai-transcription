@@ -1,0 +1,14 @@
+.env
+
+face_mesh_models/*
+downloaded_files/*
+node_modules
+venv
+dist
+.aider*
+.DS_Store
+tsconfig.tsbuildinfo
+
+.idea/
+**/__pycache__/**
+output_images

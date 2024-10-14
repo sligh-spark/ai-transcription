@@ -1,0 +1,11 @@
+loguru==0.7.2
+boto3==1.35.24
+runpod==1.6.2
+#protobuf==4.25.5
+python-dotenv==1.0.1
+whisper-timestamped==1.15.4
+# https://github.com/jumon/whisper-punctuator/issues/7#issuecomment-1492913765
+openai-whisper==20231117
+torch==2.4.1
+torchvision==0.19.1
+auditok==0.2.0
